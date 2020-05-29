@@ -27,7 +27,6 @@
     "СниматьСкриншотКаждогоОкна1С": false,
     "КаталогOutputСкриншоты": "\\\\sqlserver\\temp_for_1c$\\Kozynskiy\\jenkins",
     "КомандаСделатьСкриншот": "nircmd savescreenshot ",
-    "ПутьКRunSikulix": "tools/sikulix/runsikulix.cmd",
     "ПоставщикПользовательскихНастроек": "",
     "АдресПользовательскихНастроек": "",
     "КлиентТестирования": {
