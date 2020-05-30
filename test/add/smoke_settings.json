@@ -1,0 +1,24 @@
+{
+    "$schema":"https://raw.githubusercontent.com/silverbulleters/vanessa-runner/develop/xunit-schema.json",
+    "ИмяФайлаЛогВыполненияСценариев": "D:/1c/workspace/pb/tools/test/add/tests/log-xunit.txt",
+
+    "smoke": {
+        "ОткрываемФормыНаКлиентеТестирования":true,
+        "ИсключитьФормыЗависящиеОтОтключенныхФункциональныхОпций": true
+    },
+
+    "ПроверкаЧтенияНеАдминистраторами": [
+        "ПолныеПрава"
+    ],
+
+    //"smokeInputBasedOn": false,
+    
+    "SmokeCommonModules": {
+        "Subsystems" : [],
+        "ExcludedCommonModules" : []
+    },
+
+    "CommandInterface": {
+        "СтрогийПорядокВыполнения": true 
+    }
+}
