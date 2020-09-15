@@ -9,7 +9,8 @@
     ],
     "СписокТеговИсключение":[
         "IgnoreOnCIMainBuild",
-        "Draft"
+        "Draft",
+        "TODO"
     ],
     "ДелатьОтчетВФорматеАллюр": true,
     "КаталогOutputAllureБазовый": "$workspaceRoot/build/out/allure",
